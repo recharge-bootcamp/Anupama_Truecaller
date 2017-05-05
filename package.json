@@ -1,0 +1,22 @@
+{
+  "name": "true_caller",
+  "description": "True Caller Application",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.17.x",
+    "cookie-parser": "1.4.x",
+    "cookie-session": "1.1.0",
+    "cors": "2.8.x",
+    "ejs": "2.1.4",
+    "express": "4.11.X",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^7.4.0",
+    "line-by-line": "^0.1.5",
+    "mysql": "2.11.x"
+  },
+  "devDependencies": {
+    "run-func": "^1.0.2"
+  }
+}
